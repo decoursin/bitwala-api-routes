@@ -1,19 +1,19 @@
 {
-  "name": "bitwala-shared",
+  "name": "bitwala-api-routes",
   "version": "0.0.1",
-  "description": "NPM packages shared across multiple bitwala apps",
+  "description": "Public api routes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bitwala/bitwala-shared.git"
+    "url": "git+https://github.com/bitwala/bitwala-api-routes.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bitwala/bitwala-shared/issues"
+    "url": "https://github.com/bitwala/bitwala-api-routes/issues"
   },
-  "homepage": "https://github.com/bitwala/bitwala-shared#readme"
+  "homepage": "https://github.com/bitwala/bitwala-api-routes#readme"
 }
